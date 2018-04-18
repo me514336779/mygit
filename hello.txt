@@ -9,6 +9,8 @@ main1
 main2
 main3
 micro2
+micro3
+micro4
 main4
 main5
 main6
