@@ -14,3 +14,7 @@ micro4
 main4
 main5
 main6
+main7
+main8
+micro7
+micro8
