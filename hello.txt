@@ -6,3 +6,4 @@ test3
 test4
 micro1
 main1
+main3
