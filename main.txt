@@ -2,4 +2,6 @@ main1
 main2
 main3
 T1
+Bug1
+Bug2
 main4
