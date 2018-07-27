@@ -6,3 +6,6 @@ Bug1
 Bug2
 main4
 main5
+main6
+main8
+main9
